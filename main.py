@@ -7,7 +7,7 @@ if __name__ == "__main__":
     
     text_chunks = None
     transcript = None
-    video_id = None
+    video_id = 10
 
     while True:
         source = input("Enter the source or upload local file of audio/video: ")
