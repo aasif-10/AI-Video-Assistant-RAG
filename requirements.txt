@@ -1,0 +1,17 @@
+# Core ML & Audio
+openai-whisper>=20250625
+yt-dlp>=2026.8.19
+librosa>=1.0.0
+soundfile>=0.14.0
+torch>=2.14.0
+
+# LLM & RAG Orchestration
+langchain>=1.4.0
+langchain-core>=1.6.1
+langchain-mistralai>=1.1.6
+langchain-chroma>=1.1.0
+langchain-text-splitters>=1.1.2
+chromadb>=1.5.9
+
+# Environment & Configuration
+python-dotenv>=1.2.3
