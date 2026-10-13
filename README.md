@@ -229,6 +229,7 @@ AI-Video-Assistant-RAG/
 ├── .env.example                # Sample environment configuration template
 ├── .env                        # Local API keys and runtime parameters (git-ignored)
 ├── .gitignore                  # Git ignore rules for virtualenvs, downloads, and secrets
+├── LICENSE                      # MIT open-source license
 └── README.md                   # Complete architectural and operational documentation
 ```
 
